@@ -1,0 +1,15 @@
+Git:
+Sistema de control de versiones gratuito y de codigo abierto
+Podemos ir a las versiones anteriores de nuestro código
+3 estados:
+Modificado: cuando un archivo ha sido modificado
+add
+Staged:cuando se ha notificado que un archivo modificado quiere ser parte de una version
+commit
+Confirmados: cuando se confirma que un archivo ha sido guardado en el repositorio git
+
+Git -->Repositorio local
+GitHub -->Repositorio en la web
+
+GitHub es como Git pero en la nube
+Permite a varios desarrolladores trabajar en un mismo proyecto al mismo tiempo

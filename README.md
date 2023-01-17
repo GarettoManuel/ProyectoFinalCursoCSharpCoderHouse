@@ -1,2 +1,2 @@
 # ProyectoFinalCursoCSharpCoderHouse
-Repositorio para proyecto final de c#
+Repositorio para proyecto final de C#
